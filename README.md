@@ -5,11 +5,8 @@ PinballY is a Frontend for Visual Pinball Machines ( and Future Pinball, and FX3
 It is open source and highly customizable with JavaScript enhancements.
 Here I try to collect the scripts which can be used in the **main.js** to tweak PinballY a little bit to your personal needs.
 
-A detailed description can be found [here!](http://mjrnet.org/pinscape/downloads/PinballY/Help/Javascript.html)
-Also some scripts which i list here can be found as perfect example here.
-Unfortunately most Pincabs still run with PinballX, PinupPopper or other closes source tools. 
-
-This Repro should just be seen as little script collection to give you a headstart for your own developments.
+A detailed description and some of the below listed scripts can be found [here!](http://mjrnet.org/pinscape/downloads/PinballY/Help/Javascript.html)
+This Repo should just be seen as little script collection to give you a headstart for your own developments.
 
 ## Instalation
 I assume PinballY is up and running. 
