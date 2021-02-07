@@ -1,7 +1,7 @@
 # PinballY_scrips
 Collection of PinballY main.js scripts (Visual Pinball Frontend)
 
-PinballY is a Frontend for Visual Pinball Machines ( and Future Pinball, and FX3, and so many others).
+[PinballY](https://github.com/mjrgh/PinballY) is a Frontend for Visual Pinball Machines ( and Future Pinball, and FX3, and so many others).
 It is open source and highly customizable with JavaScript enhancements.
 Here I try to collect the scripts which can be used in the **main.js** to tweak PinballY a little bit to your personal needs.
 
