@@ -30,7 +30,11 @@ I highly recomment that you import one .js script after another. If something do
 ## Uninstallation
 Simply comment the ``` import "your_script.js" ``` with 2 slashes``` // import ... ``` or delete the the entire line in your **main.js**. 
 
-## Scripts:
+# Scripts:
+### Start_Random_Game
+[Link](https://github.com/worksasdesigned/PinballY_scrips/tree/Master/start_random_table)
+Start a random table from current Wheel
+![start a random game](https://github.com/worksasdesigned/PinballY_scrips/blob/Master/start_random_table/start_random_table.png)
 
 
 
