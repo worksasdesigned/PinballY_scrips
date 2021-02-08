@@ -59,6 +59,7 @@ Add some additional filters to the "filter by rating" menu
 shows the instruction card window while playing a table (e.g. on backglass)
 
 ![Show additional Filter](https://github.com/worksasdesigned/PinballY_scrips/blob/Master/show_instruction_card/show_instruction_card.png)
+
 *special thanks to 32assassin for his Elvira vpx port :-)*
 
 
