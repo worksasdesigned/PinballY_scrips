@@ -30,12 +30,14 @@ I highly recomment that you import one .js script after another. If something do
 Simply comment the ``` import "your_script.js" ``` with 2 slashes``` // import ... ``` or delete the the entire line in your **main.js**. 
 
 # Scripts:
-### Start_Random_Game
+### Start_Random_Table
 [Link](https://github.com/worksasdesigned/PinballY_scrips/tree/Master/start_random_table)
 Start a random table from current Wheel
-![start a random game](https://github.com/worksasdesigned/PinballY_scrips/blob/Master/start_random_table/start_random_table.png)
+![start a random tame](https://github.com/worksasdesigned/PinballY_scrips/blob/Master/start_random_table/start_random_table.png)
 
-### additional_filter
+
+
+### Additional_Filter
 [Link](https://github.com/worksasdesigned/PinballY_scrips/tree/Master/additional_filters)
 Add some additional filters to the "filter by rating" menu
 ![Show additional Filter](https://github.com/worksasdesigned/PinballY_scrips/blob/Master/additional_filters/additional_filters.png)
@@ -43,6 +45,7 @@ Add some additional filters to the "filter by rating" menu
 * Top10 filter
 * Top10+ (in case of same ratings -> show more than 10)
 * Top10sorted (in case of same ratings -> show exactely 10, but do a priorization based on playtime) 
+
 
 
 
