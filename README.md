@@ -8,7 +8,7 @@ Here I try to collect the scripts which can be used in the **main.js** to tweak 
 A detailed description and some of the below listed scripts can be found [here!](http://mjrnet.org/pinscape/downloads/PinballY/Help/Javascript.html)
 This Repo should just be seen as little script collection to give you a headstart for your own developments.
 
-## Installation
+### How to install the scripts
 I assume PinballY is up and running. 
 The scripts you will find here are stored in separate .js files.
 1. Simply copy the .js file and place it in your *PinballY/Scripts/* folder.
@@ -26,11 +26,11 @@ Open it (best would be using [notepad++](https://notepad-plus-plus.org/downloads
    
 I highly recomment that you import one .js script after another. If something doesn't work as expected its easier to identify the root cause.
 
-## Uninstallation
+### Uninstallation
 Simply comment the ``` import "your_script.js" ``` with 2 slashes``` // import ... ``` or delete the the entire line in your **main.js**. 
 
 # Scripts:
-### Start_Random_Table
+## Start_Random_Table
 [Link](https://github.com/worksasdesigned/PinballY_scrips/tree/Master/start_random_table)
 Start a random table from current Wheel
 
@@ -38,7 +38,7 @@ Start a random table from current Wheel
 
 
 
-### Additional_Filters
+## Additional_Filters
 [Link](https://github.com/worksasdesigned/PinballY_scrips/tree/Master/additional_filters)
 Add some additional filters to the "filter by rating" menu
 
