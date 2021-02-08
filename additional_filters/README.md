@@ -3,7 +3,7 @@
 ![Show additional Filter](https://github.com/worksasdesigned/PinballY_scrips/blob/Master/additional_filters/additional_filters.png)
 
 This enhancement adds 3 new filters to the existing "sort by rating" filter.
-|Filter Name|Standard actived|description|
+|Filter Name|Standard activated|description|
 |-----------|------|-----------|
 |**>=3 stars**| yes | selects all tables with 3-5 stars|
 |**<3 stars**| yes |selects all tables with no rating - less than 3 stars|
