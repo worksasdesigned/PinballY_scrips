@@ -1,20 +1,19 @@
 # PinballY_scrips
 Collection of PinballY main.js scripts (Visual Pinball Frontend)
 
-PinballY is a Frontend for Visual Pinball Machines. It is open source and highly customizable with JavaScript enhancements.
+[PinballY](https://github.com/mjrgh/PinballY) is a Frontend for Visual Pinball Machines ( and Future Pinball, and FX3, and so many others).
+It is open source and highly customizable with JavaScript enhancements.
 Here I try to collect the scripts which can be used in the **main.js** to tweak PinballY a little bit to your personal needs.
 
-A detailed description can be found [here!](http://mjrnet.org/pinscape/downloads/PinballY/Help/Javascript.html)
-Also some scripts which i list here can be found as perfect example here.
-Unfortunately most Pincabs still run with PinballX, PinupPopper or other closes source tools. 
-
-This Repro should just be seen as little script collection to give you a headstart for your own developments.
+A detailed description and some of the below listed scripts can be found [here!](http://mjrnet.org/pinscape/downloads/PinballY/Help/Javascript.html)
+This Repo should just be seen as little script collection to give you a headstart for your own developments.
 
 ## Instalation
 I assume PinballY is up and running. 
 The scripts you will find here are stored in separate .js files.
 1. Simply copy the .js file and place it in your *PinballY/Scripts/* folder.
-2. In *PinballY/Scrips* folder you will find an empty "**main.js**" file. Open it (best would be using [notepad++](https://notepad-plus-plus.org/downloads/)) and add:  
+2. In *C:/PinballY/Scrips/* folder you will find an empty "**main.js**" file. (if not: just create an empty txt file and ensure to name it "main.js"  and NOT "main.js.*txt*")
+Open it (best would be using [notepad++](https://notepad-plus-plus.org/downloads/)) and add:  
    ```
    // write a few words to understand whats the next line will do
    import "name_of_the_js_file.js"; 
@@ -30,7 +29,11 @@ I highly recomment that you import one .js script after another. If something do
 ## Uninstallation
 Simply comment the ``` import "your_script.js" ``` with 2 slashes``` // import ... ``` or delete the the entire line in your **main.js**. 
 
-## Scripts:
+# Scripts:
+### Start_Random_Game
+[Link](https://github.com/worksasdesigned/PinballY_scrips/tree/Master/start_random_table)
+Start a random table from current Wheel
+![start a random game](https://github.com/worksasdesigned/PinballY_scrips/blob/Master/start_random_table/start_random_table.png)
 
 
 
