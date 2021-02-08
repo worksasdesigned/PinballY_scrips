@@ -38,7 +38,7 @@ Start a random table from current Wheel
 
 
 
-### Additional_Filter
+### Additional_Filters
 [Link](https://github.com/worksasdesigned/PinballY_scrips/tree/Master/additional_filters)
 Add some additional filters to the "filter by rating" menu
 
