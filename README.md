@@ -8,7 +8,7 @@ Here I try to collect the scripts which can be used in the **main.js** to tweak 
 A detailed description and some of the below listed scripts can be found [here!](http://mjrnet.org/pinscape/downloads/PinballY/Help/Javascript.html)
 This Repo should just be seen as little script collection to give you a headstart for your own developments.
 
-## Instalation
+## Installation
 I assume PinballY is up and running. 
 The scripts you will find here are stored in separate .js files.
 1. Simply copy the .js file and place it in your *PinballY/Scripts/* folder.
@@ -34,6 +34,16 @@ Simply comment the ``` import "your_script.js" ``` with 2 slashes``` // import .
 [Link](https://github.com/worksasdesigned/PinballY_scrips/tree/Master/start_random_table)
 Start a random table from current Wheel
 ![start a random game](https://github.com/worksasdesigned/PinballY_scrips/blob/Master/start_random_table/start_random_table.png)
+
+### additional_filter
+[Link](https://github.com/worksasdesigned/PinballY_scrips/tree/Master/additional_filters)
+Add some additional filters to the "filter by rating" menu
+![Show additional Filter](https://github.com/worksasdesigned/PinballY_scrips/blob/Master/additional_filters/additional_filters.png)
+
+* Top10 filter
+* Top10+ (in case of same ratings -> show more than 10)
+* Top10sorted (in case of same ratings -> show exactely 10, but do a priorization based on playtime) 
+
 
 
 
