@@ -8,6 +8,14 @@ Here I try to collect the scripts which can be used in the **main.js** to tweak 
 A detailed description and some of the below listed scripts can be found [here!](http://mjrnet.org/pinscape/downloads/PinballY/Help/Javascript.html)
 This Repo should just be seen as little script collection to give you a headstart for your own developments.
 
+## Index
+|script|description|
+|------|-----------|
+|start_random_table|adds a button to choose and start a random table|
+|additional_filters|adds several filters to the "filter by rating" menu|
+|show_instruction_card|shows the instruction card window while playing a table|
+
+
 ### How to install the scripts
 I assume PinballY is up and running. 
 The scripts you will find here are stored in separate .js files.
@@ -36,8 +44,6 @@ Start a random table from current Wheel
 
 ![start a random tame](https://github.com/worksasdesigned/PinballY_scrips/blob/Master/start_random_table/start_random_table.png)
 
-
-
 ## Additional_Filters
 [Link](https://github.com/worksasdesigned/PinballY_scrips/tree/Master/additional_filters)
 Add some additional filters to the "filter by rating" menu
@@ -48,7 +54,13 @@ Add some additional filters to the "filter by rating" menu
 * Top10+ (in case of same ratings -> show more than 10)
 * Top10sorted (in case of same ratings -> show exactely 10, but do a priorization based on playtime) 
 
+## show instruction card
+[Link](https://github.com/worksasdesigned/PinballY_scrips/tree/Master/show_instruction_card)
+shows the instruction card window while playing a table (e.g. on backglass)
 
+![Show additional Filter](https://github.com/worksasdesigned/PinballY_scrips/blob/Master/show_instruction_card/show_instruction_card.png)
+
+*special thanks to 32assassin for his Elvira vpx port :-)*
 
 
 

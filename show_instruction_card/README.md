@@ -3,6 +3,7 @@
 This is a very simple script which shows the instruction card WINDOW **while playing** a table.
 
 ![show_instruction_card](https://github.com/worksasdesigned/PinballY_scrips/blob/Master/show_instruction_card/show_instruction_card.png)
+* *The shown instruction card comes from [www.pinballcards.com](http://www.pinballcards.com/)*
 
 It must be activated in Wheel-mode before you start the table.
 
@@ -16,8 +17,9 @@ It works as designed. Good enough :-)
 
 ## Installation ##
 1. As usual copy the **show_instruction_card.js** into your *PinballY/Scripts/* folder
-2. Add ```import show_instruction_card.js``` to your **main.js**
+2. Add ```import "show_instruction_card.js";``` to your **main.js**
 3. open **show_instruction_card.js** and setup your hotkey for showing and hiding the card (e.g. F7 / F8) or any key from your CoinDoor
+   Standard is "ArrowUp ⬆️" for showing and "ArrowDown ⬇️" for hiding.
 4. open PinballY settings --> Systems --> VisualPinballX and mark the "Instruction Card" Checkbox green (click it twice).
 
 ![show_instruction_card2](https://github.com/worksasdesigned/PinballY_scrips/blob/Master/show_instruction_card/show_instruction_card2.png)
