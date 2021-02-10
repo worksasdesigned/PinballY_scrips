@@ -14,6 +14,7 @@ This Repo should just be seen as little script collection to give you a headstar
 |start_random_table|adds a button to choose and start a random table|
 |additional_filters|adds several filters to the "filter by rating" menu|
 |show_instruction_card|shows the instruction card window while playing a table|
+|auto_shutdown|shuts down your PC after 60 min "Attract Mode" / inactivity|
 
 
 ### How to install the scripts
@@ -61,6 +62,13 @@ shows the instruction card window while playing a table (e.g. on backglass)
 ![Show additional Filter](https://github.com/worksasdesigned/PinballY_scrips/blob/Master/show_instruction_card/show_instruction_card.png)
 
 *special thanks to 32assassin for his Elvira vpx port :-)*
+
+## Auto_Shutdown
+*by R.Lincoln* 
+
+This script automatically closes PinballY and shuts down your PC if PinballY is displaying for 60 minuten the "Attract Mode".
+
+![show_instruction_card](https://github.com/worksasdesigned/PinballY_scrips/blob/Master/auto_shutdown/auto_shutdown.png)
 
 
 

@@ -18,7 +18,7 @@ Thanks to Michael Roberts!
 
 ## Installation
 Copy the "*additional_filters.js*" into your **PinballY/Scripts/** folder and add
-```import "additional_filters.js"``` to your *main.js*
+```import "additional_filters.js";``` to your *main.js*
 
 You can activate/deactivate the filters inside the *additional_filters.js* by switching the corresponding variable to "true/false" at the top of the script. (or simply delete the entire code block).
 Top10 filters can also simply be changed to a top 15 or top 20 list.
