@@ -14,7 +14,7 @@ Leaving the Attract Mode will automatically reset / stop the countdown.
 ## Installation ##
 1. As usual copy the **auto_shutdown.js** into your *PinballY/Scripts/* folder
 2. Add ```import "auto_shutdown.js";``` to your **main.js**
-3. open **auto_shutdown.js** and setup the time until shutdown (60 sec is standard)
+3. open **auto_shutdown.js** and setup the time until shutdown (60 min is standard)
 4. restart PinballY
 
 
