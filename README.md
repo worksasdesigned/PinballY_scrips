@@ -11,7 +11,7 @@ This Repo should just be seen as little script collection to give you a headstar
 ## Index
 |script|description|
 |------|-----------|
-|start_random_table|adds a button start a random table|
+|start_random_table|starts a random table from the current GameWheel|
 |additional_filters|adds several filters to the "filter by rating" menu|
 |show_instruction_card|shows the instruction card window while playing a table|
 |auto_shutdown|shuts down your PC after 60 min "Attract Mode" / inactivity|
