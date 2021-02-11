@@ -15,6 +15,7 @@ This Repo should just be seen as little script collection to give you a headstar
 |additional_filters|adds several filters to the "filter by rating" menu|
 |show_instruction_card|shows the instruction card window while playing a table|
 |auto_shutdown|shuts down your PC after 60 min "Attract Mode" / inactivity|
+|menu_submenu_batch| example script how to create own menu items and how to start a batch file|
 
 
 ### How to install the scripts
@@ -70,6 +71,12 @@ This script automatically closes PinballY and shuts down your PC if PinballY is 
 
 ![show_instruction_card](https://github.com/worksasdesigned/PinballY_scrips/blob/Master/auto_shutdown/auto_shutdown.png)
 
+
+## menu_submenu_batch
+An example script how to create an own menu item, submenu with 4 items and how to launch a batch with with parameter.
+There is no real usage for this example file, but its a good basis for creating your own script.
+
+![menu_submenu_batch](https://github.com/worksasdesigned/PinballY_scrips/blob/Master/menu_submenu_batch/menu_submenu_batch.png)
 
 
 ### Sources:
