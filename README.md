@@ -16,6 +16,7 @@ This Repo should just be seen as little script collection to give you a headstar
 |show_instruction_card|shows the instruction card window while playing a table|
 |auto_shutdown|shuts down your PC after 60 min "Attract Mode" / inactivity|
 |menu_submenu_batch_file| example script how to create own menu items and how to start a batch file|
+|meta_filter| adds additional MetaFilters to narrow existing selection to additional criterias|
 
 
 ### How to install the scripts
@@ -79,6 +80,10 @@ There is no real usage for this example file, but its a good basis for creating 
 ![menu_submenu_batch_file](https://github.com/worksasdesigned/PinballY_scrips/blob/Master/menu_submenu_batch_file/menu_submenu_batch_file.png)
 ![menu_submenu_batch_file2](https://github.com/worksasdesigned/PinballY_scrips/blob/Master/menu_submenu_batch_file/menu_submenu_batch_file2.png)
 
+##meta_filter
+3 example filters as MetaFilter. MetaFilters narrow the existing selection. Eg Only "Visual Pinball X" tables AND only 3+ Stars table.
+Standard 3 stars filter does not stack with preselected filters.
+![additional MetaFilters](https://github.com/worksasdesigned/PinballY_scrips/blob/Master/meta_filter/meta_filter.png)
 
 
 ### Sources:
