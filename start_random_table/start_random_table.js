@@ -1,4 +1,4 @@
-// ############################################## GSadventure Random Game V 1.0 ################################################
+// ############################################## GSadventure Random Game V 1.1 ################################################
 // Choose a random game from current selection 
 // as there is yet no function to jump to a specific gameWheel item, I need to improvise
 // Goal is to have something between 1 and 35 "jumps"
