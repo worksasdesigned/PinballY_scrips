@@ -124,6 +124,11 @@ var current_jump = 1;
    
   // now the table jumps
   for (i = 0; i < table_jumps; i++){
+	     if ( ( (i +1) == table_jumps) && ((Math.floor(Math.random() * 10)) >= 5) ){ // randomly perform or not the last jump
+		    //alert("letzter Sprung entfällt");
+			choosenGame--;
+			break;
+		 }	 
 		 mainWindow.doButtonCommand("Next",true,0);
 		 mainWindow.doButtonCommand("Next",false,0);
    		 await timer(get_delay(current_jump,total_jumps)); // then the created Promise can be awaited
@@ -141,9 +146,10 @@ else { turnWheel();}
 
 // accelerate and break down the wheel a bit 
 function get_delay(current_jump, total_jumps){
-	var accelerate= [450,200,150,100,50]; // first few jumps in milisec
+	let accelerate= [450,200,150,100,50]; // first few jumps in milisec
 	let slowdown = [100,200,350,500,750,1000]; // last few jumps in milisec
-
+    
+	
 	if (total_jumps-current_jump == total_jumps - 1) { return (max_speed + accelerate[0]);}
 	else if(current_jump == 1) { return (max_speed + accelerate[1]);}
 	else if(current_jump == 2) { return (max_speed + accelerate[2]);}
@@ -154,7 +160,7 @@ function get_delay(current_jump, total_jumps){
 	else if(total_jumps - current_jump == 3) { return (max_speed + slowdown[2]);}
 	else if(total_jumps - current_jump == 2) { return (max_speed + slowdown[3]);}
 	else if(total_jumps - current_jump == 1) { return (max_speed + slowdown[4]);}
-	else if(total_jumps - current_jump == 0) { return (max_speed + slowdown[5]);}
+	else if(total_jumps - current_jump == 0) { return (max_speed + slowdown[5] + (Math.floor(Math.random() * 700)));}
 	else {return max_speed;}
 }
 
