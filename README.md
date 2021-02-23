@@ -83,6 +83,7 @@ There is no real usage for this example file, but its a good basis for creating 
 ##meta_filter
 3 example filters as MetaFilter. MetaFilters narrow the existing selection. Eg Only "Visual Pinball X" tables AND only 3+ Stars table.
 Standard 3 stars filter does not stack with preselected filters.
+There is a second version of the script which brings TableType as meta filter criteria. (only SS,EM,ME tables)
 ![additional MetaFilters](https://github.com/worksasdesigned/PinballY_scrips/blob/Master/meta_filter/meta_filter.png)
 
 

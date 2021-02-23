@@ -5,6 +5,14 @@ Here you find 3 simple example Filters
 - only >3 stars
 - only >4 stars
 
+*<update 1.2>*
+there is another schript **meta_filter_tableType.js**
+This brings 3 other meta filters for table type (SS,EM,ME)
+**choose between meta_filter.js and meta_filter_tableType.js**
+You can melt both scripts togeter. This is realy simple. just read the code and you will understand.
+
+</update>
+
 Pinbally standard Filters do not stack. This means if you first select "Only Visual PinballX" as system
 and afterwards you select "3 Stars" as Filter --> You get ALL Tables (incl. FX3 and FP) with 3 stars.
 
@@ -27,6 +35,10 @@ You can easily change the 3 existing filters to the criterias you want or add so
 
 **Version 1.0**
 Initially created
+
+**Version 1.2
+added a TableType MetaFilter
+i guess it might lead to problems having both scripts activated as it would add 2 times the "Metafilter" menu
 
 
 
